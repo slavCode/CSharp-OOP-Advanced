@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Tele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{F53FD468-A9F3-4940-B195-043BD99ABE87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCelebrations", "BirthdayCelebrations\BirthdayCelebrations.csproj", "{AABA0CB4-4396-40FC-890B-796600331ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodShortage", "FoodShortage\FoodShortage.csproj", "{D9955C78-A1BE-46F9-9436-4CEB38E6D058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F53FD468-A9F3-4940-B195-043BD99ABE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F53FD468-A9F3-4940-B195-043BD99ABE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F53FD468-A9F3-4940-B195-043BD99ABE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABA0CB4-4396-40FC-890B-796600331ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABA0CB4-4396-40FC-890B-796600331ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABA0CB4-4396-40FC-890B-796600331ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABA0CB4-4396-40FC-890B-796600331ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9955C78-A1BE-46F9-9436-4CEB38E6D058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9955C78-A1BE-46F9-9436-4CEB38E6D058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9955C78-A1BE-46F9-9436-4CEB38E6D058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9955C78-A1BE-46F9-9436-4CEB38E6D058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
