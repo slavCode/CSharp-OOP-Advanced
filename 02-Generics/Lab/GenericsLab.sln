@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxOfT", "BoxOfT\BoxOfT.csproj", "{4C25C37E-5890-4FEE-BD7A-31453288C678}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericArrayCreator", "GenericArrayCreator\GenericArrayCreator.csproj", "{97C772F5-79B0-4C46-8103-2B508788F6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericScale", "GenericScale\GenericScale.csproj", "{4880E9A5-DE6C-4046-BFD5-9D8FC8A936AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4C25C37E-5890-4FEE-BD7A-31453288C678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C25C37E-5890-4FEE-BD7A-31453288C678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C25C37E-5890-4FEE-BD7A-31453288C678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C772F5-79B0-4C46-8103-2B508788F6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C772F5-79B0-4C46-8103-2B508788F6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C772F5-79B0-4C46-8103-2B508788F6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C772F5-79B0-4C46-8103-2B508788F6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4880E9A5-DE6C-4046-BFD5-9D8FC8A936AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4880E9A5-DE6C-4046-BFD5-9D8FC8A936AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4880E9A5-DE6C-4046-BFD5-9D8FC8A936AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4880E9A5-DE6C-4046-BFD5-9D8FC8A936AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
